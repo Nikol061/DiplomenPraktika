@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Teachers\\Desktop\\Nikol12d\\VetMedikaDiplomenProekt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74F67732-6F5A-486E-B7B7-4E9EA8BF5C5C}|VetMedikaDiplomenProekt.csproj|c:\\users\\teachers\\desktop\\nikol12d\\vetmedikadiplomenproekt\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F67732-6F5A-486E-B7B7-4E9EA8BF5C5C}|VetMedikaDiplomenProekt.csproj|solutionrelative:controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F67732-6F5A-486E-B7B7-4E9EA8BF5C5C}|VetMedikaDiplomenProekt.csproj|c:\\users\\teachers\\desktop\\nikol12d\\vetmedikadiplomenproekt\\controllers\\hourscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F67732-6F5A-486E-B7B7-4E9EA8BF5C5C}|VetMedikaDiplomenProekt.csproj|solutionrelative:controllers\\hourscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F67732-6F5A-486E-B7B7-4E9EA8BF5C5C}|VetMedikaDiplomenProekt.csproj|c:\\users\\teachers\\desktop\\nikol12d\\vetmedikadiplomenproekt\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F67732-6F5A-486E-B7B7-4E9EA8BF5C5C}|VetMedikaDiplomenProekt.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F67732-6F5A-486E-B7B7-4E9EA8BF5C5C}|VetMedikaDiplomenProekt.csproj|c:\\users\\teachers\\desktop\\nikol12d\\vetmedikadiplomenproekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F67732-6F5A-486E-B7B7-4E9EA8BF5C5C}|VetMedikaDiplomenProekt.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Teachers\\Desktop\\Nikol12d\\VetMedikaDiplomenProekt\\Data\\Migrations\\20250219062455_FirstMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20250219062455_FirstMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F67732-6F5A-486E-B7B7-4E9EA8BF5C5C}|VetMedikaDiplomenProekt.csproj|c:\\users\\teachers\\desktop\\nikol12d\\vetmedikadiplomenproekt\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F67732-6F5A-486E-B7B7-4E9EA8BF5C5C}|VetMedikaDiplomenProekt.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F67732-6F5A-486E-B7B7-4E9EA8BF5C5C}|VetMedikaDiplomenProekt.csproj|c:\\users\\teachers\\desktop\\nikol12d\\vetmedikadiplomenproekt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{74F67732-6F5A-486E-B7B7-4E9EA8BF5C5C}|VetMedikaDiplomenProekt.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F67732-6F5A-486E-B7B7-4E9EA8BF5C5C}|VetMedikaDiplomenProekt.csproj|c:\\users\\teachers\\desktop\\nikol12d\\vetmedikadiplomenproekt\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F67732-6F5A-486E-B7B7-4E9EA8BF5C5C}|VetMedikaDiplomenProekt.csproj|solutionrelative:data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F67732-6F5A-486E-B7B7-4E9EA8BF5C5C}|VetMedikaDiplomenProekt.csproj|c:\\users\\teachers\\desktop\\nikol12d\\vetmedikadiplomenproekt\\data\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F67732-6F5A-486E-B7B7-4E9EA8BF5C5C}|VetMedikaDiplomenProekt.csproj|solutionrelative:data\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F67732-6F5A-486E-B7B7-4E9EA8BF5C5C}|VetMedikaDiplomenProekt.csproj|c:\\users\\teachers\\desktop\\nikol12d\\vetmedikadiplomenproekt\\data\\hour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F67732-6F5A-486E-B7B7-4E9EA8BF5C5C}|VetMedikaDiplomenProekt.csproj|solutionrelative:data\\hour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F67732-6F5A-486E-B7B7-4E9EA8BF5C5C}|VetMedikaDiplomenProekt.csproj|c:\\users\\teachers\\desktop\\nikol12d\\vetmedikadiplomenproekt\\data\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F67732-6F5A-486E-B7B7-4E9EA8BF5C5C}|VetMedikaDiplomenProekt.csproj|solutionrelative:data\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F67732-6F5A-486E-B7B7-4E9EA8BF5C5C}|VetMedikaDiplomenProekt.csproj|c:\\users\\teachers\\desktop\\nikol12d\\vetmedikadiplomenproekt\\data\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F67732-6F5A-486E-B7B7-4E9EA8BF5C5C}|VetMedikaDiplomenProekt.csproj|solutionrelative:data\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServicesController.cs",
+              "DocumentMoniker": "C:\\Users\\Teachers\\Desktop\\Nikol12d\\VetMedikaDiplomenProekt\\Controllers\\ServicesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ServicesController.cs",
+              "ToolTip": "C:\\Users\\Teachers\\Desktop\\Nikol12d\\VetMedikaDiplomenProekt\\Controllers\\ServicesController.cs",
+              "RelativeToolTip": "Controllers\\ServicesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T06:39:01.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Teachers\\Desktop\\Nikol12d\\VetMedikaDiplomenProekt\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Teachers\\Desktop\\Nikol12d\\VetMedikaDiplomenProekt\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T06:34:00.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HoursController.cs",
+              "DocumentMoniker": "C:\\Users\\Teachers\\Desktop\\Nikol12d\\VetMedikaDiplomenProekt\\Controllers\\HoursController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HoursController.cs",
+              "ToolTip": "C:\\Users\\Teachers\\Desktop\\Nikol12d\\VetMedikaDiplomenProekt\\Controllers\\HoursController.cs",
+              "RelativeToolTip": "Controllers\\HoursController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T06:32:09.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Teachers\\Desktop\\Nikol12d\\VetMedikaDiplomenProekt\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Teachers\\Desktop\\Nikol12d\\VetMedikaDiplomenProekt\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T06:26:27.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250219062455_FirstMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Teachers\\Desktop\\Nikol12d\\VetMedikaDiplomenProekt\\Data\\Migrations\\20250219062455_FirstMigration.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250219062455_FirstMigration.cs",
+              "ToolTip": "C:\\Users\\Teachers\\Desktop\\Nikol12d\\VetMedikaDiplomenProekt\\Data\\Migrations\\20250219062455_FirstMigration.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250219062455_FirstMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T06:24:56.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Teachers\\Desktop\\Nikol12d\\VetMedikaDiplomenProekt\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Teachers\\Desktop\\Nikol12d\\VetMedikaDiplomenProekt\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-19T06:22:04.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Teachers\\Desktop\\Nikol12d\\VetMedikaDiplomenProekt\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Teachers\\Desktop\\Nikol12d\\VetMedikaDiplomenProekt\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T06:21:29.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Teachers\\Desktop\\Nikol12d\\VetMedikaDiplomenProekt\\Data\\User.cs",
+              "RelativeDocumentMoniker": "Data\\User.cs",
+              "ToolTip": "C:\\Users\\Teachers\\Desktop\\Nikol12d\\VetMedikaDiplomenProekt\\Data\\User.cs",
+              "RelativeToolTip": "Data\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T06:19:52.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\Teachers\\Desktop\\Nikol12d\\VetMedikaDiplomenProekt\\Data\\Service.cs",
+              "RelativeDocumentMoniker": "Data\\Service.cs",
+              "ToolTip": "C:\\Users\\Teachers\\Desktop\\Nikol12d\\VetMedikaDiplomenProekt\\Data\\Service.cs",
+              "RelativeToolTip": "Data\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T06:19:11.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\Teachers\\Desktop\\Nikol12d\\VetMedikaDiplomenProekt\\Data\\Reservation.cs",
+              "RelativeDocumentMoniker": "Data\\Reservation.cs",
+              "ToolTip": "C:\\Users\\Teachers\\Desktop\\Nikol12d\\VetMedikaDiplomenProekt\\Data\\Reservation.cs",
+              "RelativeToolTip": "Data\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T06:18:21.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Hour.cs",
+              "DocumentMoniker": "C:\\Users\\Teachers\\Desktop\\Nikol12d\\VetMedikaDiplomenProekt\\Data\\Hour.cs",
+              "RelativeDocumentMoniker": "Data\\Hour.cs",
+              "ToolTip": "C:\\Users\\Teachers\\Desktop\\Nikol12d\\VetMedikaDiplomenProekt\\Data\\Hour.cs",
+              "RelativeToolTip": "Data\\Hour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T06:17:29.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Teachers\\Desktop\\Nikol12d\\VetMedikaDiplomenProekt\\Data\\Category.cs",
+              "RelativeDocumentMoniker": "Data\\Category.cs",
+              "ToolTip": "C:\\Users\\Teachers\\Desktop\\Nikol12d\\VetMedikaDiplomenProekt\\Data\\Category.cs",
+              "RelativeToolTip": "Data\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T06:16:41.146Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
